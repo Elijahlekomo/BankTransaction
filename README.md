@@ -5,6 +5,5 @@ Built project with:
  - C#
  - Visual Studio
  - APS.net core MVC
- - HTML
- - CSS
+
 
