@@ -3,6 +3,8 @@ This project implements CRUD operations insert, update, and delete in ASP.net co
 
 Built project with:   
  - C#
+ - HTML
+ - CSS
  - Visual Studio
  - APS.net core MVC
 
